@@ -1,0 +1,1 @@
+Book-Tracker serves as a personal library and tracker for its user to track all books read. User can add books (objects). Automatically tracks total number of pages, number of books read, and how much spent on books.
