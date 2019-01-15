@@ -35,6 +35,16 @@ public class Book {
     	}
 
     	else if (method.equals("author") || method.equals("Author") || method.equals("AUTHOR")){
+    		System.out.println("Would you like to sort by author's first or last name?\n");
+    		method = input.nextLine(); // method refers to how player sorts library
+    		if (method.equals("first")){
+    			method = input.nextString
+    			return other.title.compareTo(this.title);
+
+    		}
+    		else{
+
+    		}
     		return other.author.compareTo(this.author);
     	}
 
